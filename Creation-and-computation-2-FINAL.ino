@@ -3,6 +3,7 @@
 // ** ** ** ** OCAD ** ** ** ** //
 
 // Referenced via hsiboy https://gist.github.com/hsiboy/11545fd0241ab60b567d //
+// Referenced via Brett Hagman https://www.arduino.cc/en/Tutorial/toneMelody //
 
 #include <FastLED.h>
 
